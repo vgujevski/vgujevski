@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vitali
 - 👀 I’m interested in Web/Mobile Development
 - 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on projects that support sustainabilty, waste recycling, green energy.
+- 💞️ I’m looking to collaborate on projects that support sustainability, waste recycling, green energy.
 - 📫 How to reach me ...
 
 <!---
