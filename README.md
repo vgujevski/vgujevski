@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Vitali
-- 💞️ I’m looking to collaborate on projects that support sustainability, waste recycling, green energy.
-- 📫 How to reach me gujevski@gmail.com
 
 <!---
 vgujevski/vgujevski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
